@@ -9,7 +9,8 @@ na barra de pesquisa</p>
 Tabela de conteúdos <br>
 ===================
 
-*[sobre](#sobre)
+*[sobre](#sobre)<br>
+*[tecnologia](#Tecnologia)
 
 <h4>Django Select &#128640; Em contrução ...</h4>
 
