@@ -6,4 +6,4 @@ class Search(models.Model):
     date = models.DateTimeField(auto_now_add=True)
 
     def __str__(self):
-        return  self.address
+        return self.address
