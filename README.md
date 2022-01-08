@@ -1,12 +1,12 @@
 <h1 align="center">Heeds</h1>
 
-<p align="center">Esse site foi desenvolvido com o 
+<p>Esse site foi desenvolvido com o 
 intuito de ajudar vendedores a visitar varios 
 estabelecimentos apenas colocando o nome do local
 na barra de pesquisa</p>
 
+<h2>Tabela de conteúdos</h2>
 <br>
-Tabela de conteúdos <br>
 ===================
 
 *[sobre](#sobre)<br>
