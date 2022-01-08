@@ -10,7 +10,7 @@ Tabela de conteúdos <br>
 ===================
 
 *[sobre](#sobre)<br>
-*[tecnologia](#Tecnologia)
+*[tecnologias](#tecnologias)
 
 <h4>Django Select &#128640; Em contrução ...</h4>
 
