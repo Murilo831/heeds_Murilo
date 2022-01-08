@@ -1,0 +1,8 @@
+
+- Como usuario, devo ser capaz de inserir os locais visitado (lat, long) com datetime e nome. -> Feito
+
+- Como usuario, devo ser capaz de listar os locais visitados -> Feito
+
+- Como usuario, devo ser capaz de editar o nome do local visitado -> Feito
+
+- Como usuario, devo ser capaz de filtrar os locais visitados por região (area geo, bbox) e data

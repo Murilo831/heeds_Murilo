@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load bootstrap4 %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+
+    <title>Title</title>
+</head>
+<body>
+<br><br><br>
+
+            <div class="container text-center">
+                <h2> Update the places you visited</h2>
+                <br>
+                <form action="" method="post" class="form col-md-6 offset-md-3 " >
+                    {% csrf_token %}
+                    {% bootstrap_form form%}
+                    {% buttons %}
+                    <button type="submit" class="btn btn-primary ">Update</button>
+                    <a href="{% url 'place'%}">
+                        <button type="button" class="btn btn-secondary ">
+                            Cancel
+                        </button>
+                    </a>
+                    {% endbuttons %}
+                </form>
+            </div>
+
+</body>
+</html>
